@@ -1,0 +1,4 @@
+services:
+  specbee_assignment.time_services:
+    class: Drupal\specbee_assignment\Service\TimeService
+    arguments: ['@config.factory']
