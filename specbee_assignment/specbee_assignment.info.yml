@@ -1,0 +1,5 @@
+name: 'Specbee Assignment'
+type: module
+description: 'This is a assignment module for Specbee.'
+core_version_requirement: ^9.2 || ^10
+package: 'Custom'
