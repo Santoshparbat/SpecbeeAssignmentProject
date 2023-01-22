@@ -1,0 +1,7 @@
+specbee_assignment.settings:
+  path: '/admin/config/specbee_assignment/settings'
+  defaults:
+    _form: '\Drupal\specbee_assignment\Form\TimeSettingsForm'
+    _title: 'Time Settings'
+  requirements:
+    _permission: 'administer site configuration'

@@ -1,0 +1,6 @@
+specbee_assignment.settings:
+  title: 'Specbee Assignment settings'
+  description: 'Configuration settings of Specbee Assignment module'
+  parent: system.admin_config_regional
+  route_name: specbee_assignment.settings
+  weight: -20
